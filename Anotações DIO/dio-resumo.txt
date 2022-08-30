@@ -1,0 +1,35 @@
+etapas de um desolvimento de software, primeiro UX depois UI "design de interface".
+
+UX			UI
+pesquisa		design
+prototipos	tipografia
+personas		cores
+objetivos		layouts
+
+
+front-end, javascript,css e html.
+back-end, java, php e c#.		
+
+
+
+quality assurance(qa):
+
+deve ter conhecimento sobre 	as atividade do projeto, perfil analitico, verifica o padroes
+de qualidade e se os requisitos minimos esperado do projeto.
+
+infraestrutura:
+
+1 sesgurança da tecnologia da informação
+2 mao de ombra especializada software e hardware
+3 infraestrutura total
+
+cloud"cloud computer:
+
+preço
+facilidade contrato, configuração e infraestrutura
+escabilidade
+performance
+
+git e github
+
+sha secure has algorith projetado por nsa
